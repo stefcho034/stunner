@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  stunner:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-21T17:20:06.3204055+02:00"
+    description: A Helm chart for Kubernetes
+    digest: c17f77dd138b886948c57b6fb90a4e4ddd447b6faf528cdf142f32b072619d0e
+    name: stunner
+    type: application
+    urls:
+    - https://stefcho034.github.io/stunner/stunner-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-21T17:20:06.3198601+02:00"
