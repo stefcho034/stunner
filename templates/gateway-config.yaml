@@ -1,4 +1,4 @@
-apiVersion: stunner.l7mp.io/v1alpha1
+apiVersion: stunner.l7mp.io/v1alpha2
 kind: GatewayConfig
 metadata:
   name: stunner-gatewayconfig
